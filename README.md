@@ -6,7 +6,7 @@
 
 **Módulo:** Servicios de Red e Internet (SRI)  
 **Curso:** 2025/2026  
-**Autores:** * 👤 **Hugo Pérez Arévalo** * 👤 **Alejandro Álvarez Romero**
+**Autores:** * 👤 **[Hugo Pérez Arévalo]** * 👤 **[Alejandro Álvarez Romero]**
 
 ---
 
@@ -26,8 +26,10 @@ A continuación se detalla el contenido de cada carpeta para facilitar la correc
 * **`/img`**: Capturas de pantalla originales del proceso de instalación y configuración.
 
 ### 🔹 `/material_aula_invertida`
-* 📄 **`cheatsheet_dhcp.md`**: Hoja de trucos (Chuleta) con comandos y sintaxis para los alumnos.
-* 🎬 **`GUION_VIDEO.md`**: Guion técnico utilizado para grabar el vídeo tutorial previo a la clase.
+* 📄 **`cheatsheet_dhcp.md`**: Hoja de trucos (Chuleta) con comandos y sintaxis.
+* 📺 **[Vídeo Tutorial Seleccionado](https://www.youtube.com/watch?v=C1vw__gcV5Y)**:
+    * **Título:** Instalación y Configuración de DHCP en Linux.
+    * **Justificación de la elección:** Hemos seleccionado este recurso audiovisual porque explica paso a paso como configurar un servidor dhcp en kali linux, aunque el vídeo sea antiguo y algunos comandos sean ligeramente diferentes el proceso es prácticamente el mismo, aunque con las diapositivas debería ser suficiente para la correcta configuración del servidor.
 
 ### 🔹 `/actividades`
 * 🛠️ **`solucion_actividad_1.conf`**: Archivo de configuración real (`dhcpd.conf`) probado en clase.
