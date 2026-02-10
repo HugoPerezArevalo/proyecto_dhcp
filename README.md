@@ -6,7 +6,7 @@
 
 **Módulo:** Servicios de Red e Internet (SRI)  
 **Curso:** 2025/2026  
-**Autores:** * 👤 **Hugo Pérez Arévalo** * 👤 **Alejandor Álvarez Romero**
+**Autores:** * 👤 **Hugo Pérez Arévalo** * 👤 **Alejandro Álvarez Romero**
 
 ---
 
